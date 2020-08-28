@@ -1,0 +1,10 @@
+C:\Users\USUARIO\source\repos\cotizacionMoneda\cotizacionMoneda\bin\Debug\cotizacionMoneda.exe.config
+C:\Users\USUARIO\source\repos\cotizacionMoneda\cotizacionMoneda\bin\Debug\cotizacionMoneda.exe
+C:\Users\USUARIO\source\repos\cotizacionMoneda\cotizacionMoneda\bin\Debug\cotizacionMoneda.pdb
+C:\Users\USUARIO\source\repos\cotizacionMoneda\cotizacionMoneda\obj\Debug\cotizacionMoneda.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\cotizacionMoneda\cotizacionMoneda\obj\Debug\cotizacionMoneda.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\cotizacionMoneda\cotizacionMoneda\obj\Debug\cotizacionMoneda.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\cotizacionMoneda\cotizacionMoneda\obj\Debug\cotizacionMoneda.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\cotizacionMoneda\cotizacionMoneda\obj\Debug\cotizacionMoneda.exe
+C:\Users\USUARIO\source\repos\cotizacionMoneda\cotizacionMoneda\obj\Debug\cotizacionMoneda.pdb
+C:\Users\USUARIO\source\repos\cotizacionMoneda\cotizacionMoneda\obj\Debug\cotizacionMoneda.VistaCotizacion.resources
